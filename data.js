@@ -51,7 +51,7 @@ window.DASHBOARD_DATA = {
             {
               text: "CI/CD 部署通知系統",
               desc: "後三週的團隊產物，push 後就自動測試、部署與通知。",
-              done: false,
+              done: true,
             },
           ],
         },
