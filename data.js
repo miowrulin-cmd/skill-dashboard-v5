@@ -46,7 +46,7 @@ window.DASHBOARD_DATA = {
             {
               text: "技能儀表板",
               desc: "前三週的個人作品，也是你追蹤學習進度的文件。",
-              done: false,
+              done: true,
             },
             {
               text: "CI/CD 部署通知系統",
